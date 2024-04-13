@@ -20,6 +20,8 @@ The music used in this game is from the Doom soundtrack.
   - Composer: Mick Gordon
   - Source: [https://doom.com](https://doom.com)
  
+The artwork used in the game was obtained from 
+https://opengameart.org/content/alien-spaceship-sprite-pack  
 # License 
 
 MIT License
